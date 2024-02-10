@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+//EKSİKLERİM VARDI YAPABİLECEİĞİMİN EN İYİSİNİ YAPTIM UMARIM BEĞENİRSİNİZ
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

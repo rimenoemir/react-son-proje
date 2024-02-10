@@ -1,7 +1,9 @@
 # Getting Started with Create React App
+VERCEL ADRESİM https://vercel.com/rimenos-projects
 //EKSİKLERİM VARDI YAPABİLECEİĞİMİN EN İYİSİNİ YAPTIM UMARIM BEĞENİRSİNİZ
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://vercel.com/rimenos-projects
 
 ## Available Scripts
 
